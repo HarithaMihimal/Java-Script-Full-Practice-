@@ -42,4 +42,7 @@
 // console.log(typeof f)
 // console.log(typeof g)
 // console.log(typeof h)
-
+let b=23
+b=String(b)
+console.log(b)
+console.log(typeof b)
