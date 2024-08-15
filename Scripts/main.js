@@ -12,3 +12,13 @@ let a ={
     age: 22,
     city: 'Matara'
 }
+
+let b ={
+    name: 'mihimal',
+    age: 22,
+    city: 'Matara'
+}
+
+console.log(a)
+console.log(b)
+console.table({a,b})
