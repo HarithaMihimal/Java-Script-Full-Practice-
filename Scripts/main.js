@@ -57,4 +57,8 @@ let a=2+3
 console.log(a)
 let c='4'
 
-console.log(+c+10)
+console.log(+c+10) 
+
+age=24
+
+console.log(`your age is ${age}`)
