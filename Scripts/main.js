@@ -46,5 +46,6 @@ let h=new Date()
 b=String(b)
 console.log(b)
 console.log(typeof b)
-
+let i='100.33E'
 console.log(Number(b))
+console.log((parseInt(i)))
