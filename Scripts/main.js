@@ -53,12 +53,19 @@
 
 //unary operator
 
-let a=2+3
-console.log(a)
-let c='4'
+// let a=2+3
+// console.log(a)
+// let c='4'
 
-console.log(+c+10) 
+// console.log(+c+10) 
 
-age=24
+// age=24
 
-console.log(`your age is ${age}`)
+// console.log(`your age is ${age}`)
+const myname='haritha'
+console.log(myname)
+myname='mihimal'
+
+let a,b,c;
+a=b=c=20;
+console.log(a,b,c)
