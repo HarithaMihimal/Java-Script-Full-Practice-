@@ -73,5 +73,7 @@
 // let a='haritha'
 // console.log(a[0])
 
+// let a='haritha'
+// console.log(a.split('r'))
 let a='haritha'
-console.log(a.split('r'))
+console.log(a.charAt(4))
