@@ -62,10 +62,16 @@
 // age=24
 
 // console.log(`your age is ${age}`)
-const myname='haritha'
-console.log(myname)
-myname='mihimal'
+// const myname='haritha'
+// console.log(myname)
+// myname='mihimal'
 
-let a,b,c;
-a=b=c=20;
-console.log(a,b,c)
+// let a,b,c;
+// a=b=c=20;
+// console.log(a,b,c)
+
+// let a='haritha'
+// console.log(a[0])
+
+let a='haritha'
+console.log(a.split('r'))
