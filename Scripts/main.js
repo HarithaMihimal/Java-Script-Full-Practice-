@@ -55,3 +55,6 @@
 
 let a=2+3
 console.log(a)
+let c='4'
+
+console.log(+c+10)
