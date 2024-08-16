@@ -81,17 +81,22 @@
 // let a='haritha'
 // console.log(a.replace('a','A'))
 
-let a='Haritha'
-console.log(a.includes('r'))
-console.log(a.includes('z'))
-console.log(a.lastIndexOf('a'))
-console.log(a.indexOf('a'))
-console.log(a.toUpperCase())
-console.log(a.toLowerCase())
-console.log(a.substring(0,3))
-console.log(a.slice(0,3))
-console.log(a.slice(-3))
-console.log(a.slice(0,-3))
-console.log(a.split('a'))
-console.log(a.split(''))
+// let a='Haritha'
+// console.log(a.includes('r'))
+// console.log(a.includes('z'))
+// console.log(a.lastIndexOf('a'))
+// console.log(a.indexOf('a'))
+// console.log(a.toUpperCase())
+// console.log(a.toLowerCase())
+// console.log(a.substring(0,3))
+// console.log(a.slice(0,3))
+// console.log(a.slice(-3))
+// console.log(a.slice(0,-3))
+// console.log(a.split('a'))
+// console.log(a.split(''))
+
+
+let d=['haritha','mihimal','wilwala',10,true,undefined]
+console.log(d)
+console.log(d.length)
 
