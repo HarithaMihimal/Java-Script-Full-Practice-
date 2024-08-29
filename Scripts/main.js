@@ -142,5 +142,32 @@
    
 // }
 
-display("hello")
-display("world")
+// display("hello")
+// display("world")
+
+// let newFun =name=>{
+//     console.log('This is a arrow function', name)
+//     console.log('This is a arrow function', name)
+// }
+// newFun("hairhta")
+
+
+let a=3;
+
+switch (a){
+    case 1:
+        console.log('This is case 1')
+        break;
+    case 2:
+        console.log('This is case 2')
+        break;
+    case 3:
+        console.log('This is case 3')
+        break;
+    case 4:
+        console.log('This is case 4')
+        break;
+    default:
+        console.log('This is default')
+        break;
+}
