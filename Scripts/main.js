@@ -110,17 +110,25 @@
 // console.log(d.join(' '))
 
 
-let a={
-    name:"Amila Upul",
-    age:22,
-    city:"Matara",
-    canFly:true,
-    languages:['sinhala','english','tamil'],
-    city1:{
-        name:'Matara',
-        population:200000
-    },
+// let a={
+//     name:"Amila Upul",
+//     age:22,
+//     city:"Matara",
+//     canFly:true,
+//     languages:['sinhala','english','tamil'],
+//     city1:{
+//         name:'Matara',
+//         population:200000
+//     },
     
 
+// }
+// console.log(a)
+
+
+function display(param){
+    console.log(`Hello  ${param}`)
 }
-console.log(a)
+
+display("hello")
+display("world")
