@@ -126,9 +126,21 @@
 // console.log(a)
 
 
-function display(param){
-    console.log(`Hello  ${param}`)
-}
+// function display(param){
+//     console.log(`Hello  ${param}`)
+
+//     function name(){
+//         console.log('This is a nested function')
+//         function name1(){
+//             alert('This is a nested function')
+//             console.log('This is a nested function')
+//         }
+//         name1()
+//     }
+
+//     name()
+   
+// }
 
 display("hello")
 display("world")
